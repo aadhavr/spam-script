@@ -1,6 +1,6 @@
 # Spam Script
 
-My baby sister told me that coding wasn't "cool." I wrote this script in a few minutes in front of her to show her that programming is cool (or at least I think so!). 
+My little sister told me that coding wasn't "cool." I wrote this script in a few minutes in front of her to show her that programming is cool (or at least I think so!). 
 
 This code is a simple script that automates the process of spamming text from a file onto a target application. It utilizes the `time` and `pyautogui` modules to introduce delays and simulate keyboard input.
 
